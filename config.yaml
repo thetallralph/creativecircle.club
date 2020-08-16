@@ -4,7 +4,7 @@ title: "Hugo Novela"
 pygmentsstyle: 'monokai'
 
 # Theme settings
-theme: novela
+theme: cctheme
 paginate: 6
 social:
   twitter: "#"
